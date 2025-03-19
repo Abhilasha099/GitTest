@@ -23,7 +23,7 @@ public class consecutive {
 		
 		Collection<Integer> col= hm.values();
 		col.stream().sorted().forEach(s->System.out.println(s));
-		
+		System.out.println("hello weekend");
 		//for(String str : hm)
 		{	
 			
